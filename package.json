@@ -1,0 +1,12 @@
+{
+  "name": "shitdicksays-website-using-express",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "express-handlebars": "latest",
+    "lodash": "latest"
+  }
+}
