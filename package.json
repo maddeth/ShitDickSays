@@ -8,5 +8,21 @@
     "express": "latest",
     "express-handlebars": "latest",
     "lodash": "latest"
-  }
+  },
+  "description": "ShitDickSays",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddeth/ShitDickSays.git"
+  },
+  "author": "Jon Smith (Maddeth)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddeth/ShitDickSays/issues"
+  },
+  "homepage": "https://github.com/maddeth/ShitDickSays#readme"
 }
